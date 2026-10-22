@@ -1,0 +1,10 @@
+{
+  "description": "This industrial dashboard enhances textile quality control through real-time video monitoring and defect detection, providing actionable insights for operators.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
